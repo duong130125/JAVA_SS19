@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 
-public class Bai1 {
+public class BT1 {
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         list.add("Java");

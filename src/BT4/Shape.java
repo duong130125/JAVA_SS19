@@ -1,4 +1,4 @@
-package ss19.Bai4;
+package BT4;
 
 public interface Shape {
     default double area() {

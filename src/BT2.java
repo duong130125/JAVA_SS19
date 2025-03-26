@@ -2,7 +2,7 @@ package ss19;
 
 import java.util.function.Function;
 
-public class Bai2{
+public class BT2 {
     public static void main(String[] args) {
         Function<Integer,Integer> function= new Function<Integer, Integer>() {
             @Override
